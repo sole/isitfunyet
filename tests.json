@@ -1,5 +1,5 @@
 {
 	"tests": [
-		[ "tests/audio/play", "Test if audio can be played with the audio &lt;tag&gt;" ]
+		[ "tests/audio/play", "Test if audio can be played with the <audio> tag" ]
 	]
 }
